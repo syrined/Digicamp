@@ -1,6 +1,9 @@
-# Digicamp
+# Introduction to python for finance
 
-This is Bootcamp in an introductory course for python programming presented to the master students in Economics and Finance at Università della Svizzera Italiana 
+Welcome to **DigiCamp** — a hands-on introductory course in Python programming.
+
+This course is crafted to equip you with foundational programming skills that will help you thrive in data-driven finance, economic modeling, and beyond.
+
 ## Getting Started
 * Have your Google account ready
 * If you do not have one, [get it here](https://support.google.com/mail/answer/56256?hl=en) for free
@@ -9,5 +12,14 @@ Work through the notebooks in numerical order.
 Simply click on Open in Colab
 * **Session 1** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r3DJdFpKsgv2GL-sq5K1WRRqN-6Ttb0Q?usp=sharing)
 
-## Philosophy
-This Bootcamp is created to address the learning gap between master students that have signed up for the course "Programming in Finance and Economics I"
+## 🎯 Why This course?
+
+Many students enter the Master's program with varying levels of coding experience. This course bridges that gap by:
+- Building your **confidence in Python**
+- Teaching tools that are **actually used in finance**
+
+
+Whether you're a beginner or just rusty, DigiCamp will get you up to speed fast.
+
+
+
