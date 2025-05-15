@@ -11,6 +11,7 @@ Work through the notebooks in numerical order.
 ## Chapters
 Simply click on Open in Colab
 * **Session 1** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r3DJdFpKsgv2GL-sq5K1WRRqN-6Ttb0Q?usp=sharing)
+* **Session 2** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S8iUJXZSLYaojOw3KOuCBH2ZNgJGK2f5?usp=sharing)
 
 ## 🎯 Why This course?
 
